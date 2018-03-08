@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Pupil</id>
+    <version>1.0.0</version>
+    <authors>Casper</authors>
+    <owners>Casper</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/CasualX/PupilSharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Arithmetic expression evaluator</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Calc Eval Expr Calculator Evaluator Expression Arithmetic</tags>
+  </metadata>
+</package>
